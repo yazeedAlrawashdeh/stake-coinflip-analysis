@@ -10,7 +10,7 @@ We aim to:
 
 ---
 
-## 🧪 Why This Project?
+##  Why This Project?
 
 Online casinos claim to use fair random number generators (RNGs) — but how fair is "fair"? We're collecting real data to put that to the test.
 
@@ -18,7 +18,7 @@ If you're interested in data analysis, statistics, browser scripting, or fairnes
 
 ---
 
-## 🔧 Getting Started
+##  Getting Started
 
 This project runs entirely in the **browser** — no Python or installations required.
 
@@ -47,7 +47,7 @@ Start logging flip outcomes, and contribute your findings!
 
 We're beginner-friendly and open to collaboration.
 
-- Check out [Disscussion](https://github.com/yazeedAlrawashdeh/stake-flip-analyzer/issues)
+- Check out [Discussion](https://github.com/yazeedAlrawashdeh/stake-flip-analyzer/issues)
 - Suggest improvements, features, or bugs
 - Fork the repo, make changes, and open a pull request
 - Add more data manually or help automate future features
