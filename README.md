@@ -1,5 +1,7 @@
 #  Stake Flip Analyzer
 
+I'm no expert, I'm looking forward to collaborating with you where we can share ideas and potentially work it out.
+
 A community-driven browser-based project to **track and analyze the fairness of the coin flip game on [Stake.com](https://stake.com)**.
 
 We aim to:
