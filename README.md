@@ -47,7 +47,7 @@ Start logging flip outcomes, and contribute your findings!
 
 We're beginner-friendly and open to collaboration.
 
-- Check out [issues](https://github.com/yazeedAlrawashdeh/stake-flip-analyzer/issues)
+- Check out [Disscussion](https://github.com/yazeedAlrawashdeh/stake-flip-analyzer/issues)
 - Suggest improvements, features, or bugs
 - Fork the repo, make changes, and open a pull request
 - Add more data manually or help automate future features
