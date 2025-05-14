@@ -24,7 +24,7 @@ This project runs entirely in the **browser** — no Python or installations req
 
 ### Step 1: Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/stake-flip-analyzer.git
+git clone https://github.com/yazeedAlrawashdeh/stake-coinflip-analysis.git
 ```
 
 ### Step 2: Open `index.html` in your browser
