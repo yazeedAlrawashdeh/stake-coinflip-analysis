@@ -1,4 +1,4 @@
-# 🎲 Stake Flip Analyzer
+#  Stake Flip Analyzer
 
 A community-driven browser-based project to **track and analyze the fairness of the coin flip game on [Stake.com](https://stake.com)**.
 
@@ -33,21 +33,21 @@ Start logging flip outcomes, and contribute your findings!
 
 ---
 
-## 📊 Goals and Features
+##  Goals and Features
 
-- ✅ Manual coin flip logger (Heads/Tails/Win/Loss)
-- 📈 Data visualizer (streaks, ratios, histograms)
-- 🧠 RNG fairness estimator
-- 💾 Export to CSV / JSON
-- 🧩 Open-source contributions welcome!
+-  Manual coin flip logger (Heads/Tails/Win/Loss)
+-  Data visualizer (streaks, ratios, histograms)
+-  RNG fairness estimator
+-  Export to CSV / JSON
+-  Open-source contributions welcome!
 
 ---
 
-## 👥 How to Contribute
+##  How to Contribute
 
 We're beginner-friendly and open to collaboration.
 
-- Check out [issues](https://github.com/YOUR_USERNAME/stake-flip-analyzer/issues)
+- Check out [issues](https://github.com/yazeedAlrawashdeh/stake-flip-analyzer/issues)
 - Suggest improvements, features, or bugs
 - Fork the repo, make changes, and open a pull request
 - Add more data manually or help automate future features
