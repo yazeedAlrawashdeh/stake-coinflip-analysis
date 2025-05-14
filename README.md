@@ -40,6 +40,7 @@ Start logging flip outcomes, and contribute your findings!
 -  RNG fairness estimator
 -  Export to CSV / JSON
 -  Open-source contributions welcome!
+-  Potential Profit Based on our work
 
 ---
 
@@ -54,12 +55,12 @@ We're beginner-friendly and open to collaboration.
 
 ---
 
-## ⚖️ Disclaimer
+##  Disclaimer
 
 This is for **educational and research purposes only**. We do not promote gambling. Please check your local laws and gamble responsibly.
 
 ---
 
-## 📬 Contact
+##  Contact
 
-Have questions or ideas? Open an issue or contact us via GitHub Discussions.
+Have questions or ideas? Open an issue on [Discussion](discussions.md)
