@@ -1,6 +1,6 @@
 # 🎲 Stake Flip Analyzer
 
-A community-driven browser-based project to **track and analyze the fairness of the coin flip game on [Stakes.com](https://stakes.com)**.
+A community-driven browser-based project to **track and analyze the fairness of the coin flip game on [Stake.com](https://stake.com)**.
 
 We aim to:
 - Collect real coin flip data from Stakes.com
