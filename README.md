@@ -143,6 +143,7 @@ Data Storage: Store the collected data in a structured format, such as JSON or C
 Analysis: Apply the statistical and machine learning methods outlined above.
 
 Visualization: Create visual representations of the data to identify patterns.
+
 ---
 
 ##  Contact
