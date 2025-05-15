@@ -61,6 +61,89 @@ We're beginner-friendly and open to collaboration.
 
 This is for **educational and research purposes only**. We do not promote gambling. Please check your local laws and gamble responsibly.
 
+### Statistical Methods for Detecting Bias
+
+1. Frequentist Analysis: Binomial Proportion Test
+Objective: Determine if the proportion of heads deviates significantly from 50%.
+
+Method: Conduct a binomial test or calculate confidence intervals for the observed proportion.
+
+Considerations: Ensure a sufficiently large sample size to detect small biases with statistical power.
+
+2. Bayesian Inference
+Objective: Estimate the probability distribution of the coin's bias.
+
+Method: Apply Bayes' theorem to update beliefs about the bias after observing data.
+
+Tools: Utilize Beta distributions as conjugate priors for binomial likelihoods. 
+
+3. Sequential Analysis
+Objective: Monitor coin flips in real-time to detect emerging biases.
+
+Method: Implement sequential probability ratio tests (SPRT) to decide when to stop sampling.
+
+Application: Useful for ongoing monitoring during gameplay sessions.
+
+### Machine Learning Techniques
+1. Anomaly Detection
+Objective: Identify unusual patterns in the sequence of flips.
+
+Methods:
+
+Isolation Forests: Detect outliers by isolating observations.
+
+Autoencoders: Learn a compressed representation of data and identify reconstruction errors.
+
+Application: Flag sequences that deviate from expected randomness
+
+2. Predictive Modeling
+Objective: Predict the outcome of the next flip based on historical data.
+
+Methods:
+
+Logistic Regression: Model the probability of heads as a function of previous outcomes.
+
+Recurrent Neural Networks (RNNs): Capture temporal dependencies in flip sequences.
+
+Considerations: While these models can identify patterns, they should not be used to predict future outcomes in games designed to be random.
+
+3. Simulation and Monte Carlo Methods
+Objective: Simulate coin flips to understand expected distributions and detect anomalies.
+
+Method: Generate a large number of simulated flips and compare the observed data to these simulations.
+
+Tools: Python's random module or libraries like NumPy for simulations.
+
+
+### Cognitive Biases to Consider
+Understanding human psychology can also play a role in analyzing coin flip games:
+
+Gambler's Fallacy: The belief that past independent events influence future outcomes.
+
+Recency Bias: The tendency to give undue weight to recent events.
+
+Confirmation Bias: The inclination to search for or interpret information in a way that confirms one's preconceptions.
+
+
+### Visualizing the Data
+Effective visualization can reveal patterns and anomalies:
+
+Histograms: Show the distribution of heads and tails.
+
+Time Series Plots: Display the sequence of outcomes over time.
+
+Heatmaps: Illustrate the frequency of consecutive outcomes.
+
+### Implementing the Analysis
+To begin your analysis:
+
+Data Collection: Use browser automation tools like Selenium or Puppeteer to collect flip data from Stakes.com.
+
+Data Storage: Store the collected data in a structured format, such as JSON or CSV.
+
+Analysis: Apply the statistical and machine learning methods outlined above.
+
+Visualization: Create visual representations of the data to identify patterns.
 ---
 
 ##  Contact
