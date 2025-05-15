@@ -61,6 +61,8 @@ We're beginner-friendly and open to collaboration.
 
 This is for **educational and research purposes only**. We do not promote gambling. Please check your local laws and gamble responsibly.
 
+---
+## Methods that we can use
 ### Statistical Methods for Detecting Bias
 
 1. Frequentist Analysis: Binomial Proportion Test
