@@ -118,7 +118,6 @@ Tools: Python's random module or libraries like NumPy for simulations.
 
 
 ### Cognitive Biases to Consider
-Understanding human psychology can also play a role in analyzing coin flip games:
 
 Gambler's Fallacy: The belief that past independent events influence future outcomes.
 
@@ -128,7 +127,6 @@ Confirmation Bias: The inclination to search for or interpret information in a w
 
 
 ### Visualizing the Data
-Effective visualization can reveal patterns and anomalies:
 
 Histograms: Show the distribution of heads and tails.
 
@@ -137,7 +135,6 @@ Time Series Plots: Display the sequence of outcomes over time.
 Heatmaps: Illustrate the frequency of consecutive outcomes.
 
 ### Implementing the Analysis
-To begin your analysis:
 
 Data Collection: Use browser automation tools like Selenium or Puppeteer to collect flip data from Stakes.com.
 
