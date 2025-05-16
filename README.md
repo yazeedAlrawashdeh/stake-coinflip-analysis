@@ -8,7 +8,6 @@ We aim to:
 - Collect real coin flip data from Stakes.com
 - Visualize outcomes and trends
 - Test for potential bias or unfair patterns
-- Build a public, transparent record of coin flip results
 
 ---
 
